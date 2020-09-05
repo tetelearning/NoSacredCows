@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>No Sacred Cows</title>
+  <description>Meet Adam and Phil, two guys with a bunch of free time (ha) that think they have something to say.</description>
+  <language>en-us</language>
+  <link>https://tetelearning.github.io/NoSacredCows</link>
+  <copyright>2020 No Sacred Cows</copyright>
+  <itunes:author>The Sunset Explorers</itunes:author>
+  <itunes:type>serial</itunes:type>
+  <itunes:owner>
+    <itunes:name>Sunset Explorers</itunes:name>
+    <itunes:email>mountainscape@icloud.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://tetelearning.github.io/NoSacredCows/example.png" />
+  <itunes:category text="Whatever">
+    <itunes:category text="Wilderness"/>
+  </itunes:category>
+  <itunes:explicit>true</itunes:explicit>
+  <lastBuildDate>Sat, 05 Sep 2020 00:01:00 +0000</lastBuildDate>
+  <pubDate>Sat, 05 Sep 2020 00:01:00 +0000</pubDate>
+
+  <item>
+    <title>Hello?</title>
+    <description>What are we doing?</description>
+    <link>https://tetelearning.github.io/NoSacredCows/mp3/01.mp3</link>
+    <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
+    <pubDate>Sun, 06 Sep 2009 16:20:00 +0000</pubDate>
+    <itunes:episodeType>trailer</itunes:episodeType>
+    <itunes:title>Hiking Treks Trailer</itunes:title>
+    <description>
+    </description>
+    <enclosure
+      length="498537"
+      type="audio/mpeg"
+      url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
+    />
+    <itunes:duration>1079</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  </channel>
+  </rss>
