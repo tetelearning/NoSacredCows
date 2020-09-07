@@ -6,13 +6,13 @@
   <language>en-us</language>
   <link>https://tetelearning.github.io/NoSacredCows</link>
   <copyright>2020 No Sacred Cows</copyright>
-  <itunes:author>The Sunset Explorers</itunes:author>
+  <itunes:author>No Sacred Cows</itunes:author>
   <itunes:type>serial</itunes:type>
   <itunes:owner>
-    <itunes:name>Sunset Explorers</itunes:name>
-    <itunes:email>mountainscape@icloud.com</itunes:email>
+    <itunes:name>No Sacred Cows</itunes:name>
+    <itunes:email>corbett.phil@gmail.com</itunes:email>
   </itunes:owner>
-  <itunes:image href="https://tetelearning.github.io/NoSacredCows/example.png" />
+  <itunes:image href="https://tetelearning.github.io/NoSacredCows/logo.png" />
   <itunes:category text="Whatever">
     <itunes:category text="Wilderness"/>
   </itunes:category>
@@ -25,18 +25,18 @@
     <description>What are we doing?</description>
     <link>https://tetelearning.github.io/NoSacredCows/mp3/01.mp3</link>
     <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
-    <pubDate>Sun, 06 Sep 2009 16:20:00 +0000</pubDate>
+    <pubDate>Sat, 05 Sep 2020 00:01:00 +0000</pubDate>
     <itunes:episodeType>trailer</itunes:episodeType>
-    <itunes:title>Hiking Treks Trailer</itunes:title>
+    <itunes:title>First AllAboutEverythingEpisode4</itunes:title>
     <description>
     </description>
     <enclosure
       length="498537"
       type="audio/mpeg"
-      url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
+      url="https://tetelearning.github.io/NoSacredCows/mp3/01.mp3"
     />
-    <itunes:duration>1079</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:duration>0000</itunes:duration>
+    <itunes:explicit>true</itunes:explicit>
   </item>
 
   </channel>
